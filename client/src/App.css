@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  border: 1px solid;
+}
+
+.todo-list {
+	text-align: left;
+	margin-bottom: 2em;
+}
+
+.todo {
+	display: flex;
+	justify-content: space-between;
+	font-size: 1em;
+}
+
+.add-todo-input {
+	padding: 0.6em 1.2em;
+	font-size: 1em;
+	margin-right: 0.5em;
+}
